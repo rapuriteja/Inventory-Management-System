@@ -1,0 +1,10 @@
+teja							Mon Sep  6 16:31:32 2021
+***********************************************
+Product Name					Price					Quantity					Final amount
+Butter								74								12								888
+Jam								42									15								630
+Sugar								74									1								74
+Honey								47									12								564
+Vinegar								14									14								196
+*********************************************
+Your total bill is 2602

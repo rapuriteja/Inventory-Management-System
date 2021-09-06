@@ -1,0 +1,9 @@
+Product name: Rice - Quantity bought:6 - Price:250 
+Product name: Honey - Quantity bought:13 - Price:564 
+Product name: Vinegar - Quantity bought:15 - Price:196 
+Product name: Sugar - Quantity bought:2 - Price:74 
+Product name: Butter - Quantity bought:13 - Price:888 
+Product name: Jam - Quantity bought:16 - Price:630 
+**************************************************************************
+Sales generated on Mon Sep  6 16:31:32 2021 is of Rs- 2602 
+**************************************************************************
